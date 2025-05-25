@@ -1,8 +1,8 @@
 # iOS Weather Animations
 
-Beautiful iOS-style weather animations built with HTML5 Canvas and JavaScript. Features realistic weather effects with smooth transitions and interactive controls.
+iOS-style weather animations built with HTML5 Canvas and JavaScript. 
 
-**Live Demo:** https://ibz0q.github.io/web-weather-animations/
+**Demo:** https://ibz0q.github.io/web-weather-animations/
 
 ## 🌦️ Weather Animations
 
