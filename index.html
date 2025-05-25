@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>iOS Weather Animations</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <canvas id="weather-canvas"></canvas>
+  <div id="weather-controls">
+    <button id="prev-weather" aria-label="Previous weather">&#60;</button>
+    <span id="weather-label">Clear</span>
+    <button id="next-weather" aria-label="Next weather">&#62;</button>
+  </div>
+  <div id="moon-controls">
+    <button id="moon-toggle" aria-label="Toggle moon visibility">🌙</button>
+    <button id="moon-phase-prev" aria-label="Previous moon phase">◀</button>
+    <span id="moon-phase-label">Full Moon</span>
+    <button id="moon-phase-next" aria-label="Next moon phase">▶</button>
+  </div>
+  <div id="sun-controls">
+    <button id="sun-position-prev" aria-label="Move sun backward">◀</button>
+    <span id="sun-position-label">☀️ Midday</span>
+    <button id="sun-position-next" aria-label="Move sun forward">▶</button>
+  </div>
+  <script src="weather-app.js"></script>
+</body>
+</html> 
