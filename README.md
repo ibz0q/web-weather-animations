@@ -2,6 +2,8 @@
 
 Beautiful iOS-style weather animations built with HTML5 Canvas and JavaScript. Features realistic weather effects with smooth transitions and interactive controls.
 
+**Live Demo:** https://ibz0q.github.io/web-weather-animations/
+
 ## 🌦️ Weather Animations
 
 **Day Weather:**
@@ -25,13 +27,6 @@ Beautiful iOS-style weather animations built with HTML5 Canvas and JavaScript. F
 - Clear Night - Starry sky with moon
 - Partly Cloudy Night - Moon, stars, and clouds
 
-## 🎮 Controls
-
-- **← →** Navigate weather types
-- **🌙** Toggle moon visibility
-- **Moon Phase** Cycle through moon phases
-- **Sun Position** Adjust sun position
-
 ## 🚀 Features
 
 - 17 realistic weather animations
@@ -44,8 +39,4 @@ Beautiful iOS-style weather animations built with HTML5 Canvas and JavaScript. F
 
 1. Clone repository
 2. Open `index.html` in browser
-3. For GitHub Pages: Enable Actions in repository settings
 
----
-
-**Live Demo:** [Deploy to see your GitHub Pages URL]
